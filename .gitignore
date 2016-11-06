@@ -2,4 +2,7 @@
 # Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
 ################################################################################
 
+/TicTacToe/.vs/TicTacToe/v14
 /TicTacToe/bin/Debug
+/TicTacToe/obj/Debug
+/TicTacToe/TicTacToe.sln
